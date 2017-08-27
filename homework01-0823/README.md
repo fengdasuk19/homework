@@ -1,3 +1,3 @@
 # homework01
 
-MNIST
+homework for MNIST
